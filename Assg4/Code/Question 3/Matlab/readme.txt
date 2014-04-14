@@ -1,0 +1,1 @@
+Answer 3 has document , run it to get the pedicted labels by the Bayes classifier in the PredictedClass matrix
